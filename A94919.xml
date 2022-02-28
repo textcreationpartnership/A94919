@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and full relation of the manner of the taking of the towne and castle of Shrewsbury. With the conditions on which the castle, and fort at Frankvill, were surrendered. As also, a list of the names of the severall commanders, officers, knights, esquires, gentlemen, and others, that were taken prisoners. Printed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94919</idno>
+            <idno type="STC">Wing T2482</idno>
+            <idno type="STC">Thomason E271_2</idno>
+            <idno type="STC">ESTC R212219</idno>
+            <idno type="EEBO-CITATION">99870863</idno>
+            <idno type="PROQUEST">99870863</idno>
+            <idno type="VID">159457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159457)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E271[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and full relation of the manner of the taking of the towne and castle of Shrewsbury. With the conditions on which the castle, and fort at Frankvill, were surrendered. As also, a list of the names of the severall commanders, officers, knights, esquires, gentlemen, and others, that were taken prisoners. Printed according to order.</title>
+               </titleStmt>
+               <extent>8 [i.e. 10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. for Christopher Meredith, at the signe of the Crane in Pauls-Churchyard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 10 misnumbered 8.</note>
+                  <note>Annotation on Thomason copy: "March 4th 1644"; the 5 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Shrewsbury (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159457:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>A True and Full RELATION Of the manner of the Taking of the TawnE and CASTLE of <hi>SHREWSB<g ref="char:V">Ʋ</g>RY.</hi>
+            </p>
+            <p>With the CONDITIONS On which the Caſtle, and Fort at <hi>Frankvill,</hi> were ſurrendered.</p>
+            <p>AS ALSO, A Liſt of the Names of the ſeverall Commanders, Officers, Knights, Eſquires, Gentlemen, and others, that were taken Priſoners.</p>
+            <p>Printed according to Order. <add>March 4<hi rend="sup">th</hi>
+               </add>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. R.</hi> for <hi>Chriſtopher Meredith,</hi> at the ſigne of the Crane in <hi>Pauls</hi>-Churchyard. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159457:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:159457:2"/>
+            <!-- PDF PAGE 2 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Hould we not publiſh Gods good<g ref="char:EOLhyphen"/>neſſe unto us, it would be an Ar<g ref="char:EOLhyphen"/>gument of high ingratitude, and render us to the world unworthy of ſo great a Mercy. For it hath pleaſed God of his goodneſſe, after a whole yeers travell, and three moneths ſtrong labour, by the care and induſtry of our vigilant and active Com<g ref="char:EOLhyphen"/>mittee, to hand into the World a Bleſſing; for which, all that are well-affected unto the welfare of this Church and Kingdom, will rejoyce.</p>
+            <p>On the 21. of this inſtant, by order of the Committee, there were drawn out of the Garriſons of <hi>Wem, Morten-Corbet,</hi> and <hi>Stock,</hi> 250. Foot, and 250. Horſe. From our good Friend Sir <hi>William Brereton,</hi> we were aſſiſted with 250. Foot, and 350 Horſe, of the <hi>Staf<g ref="char:EOLhyphen"/>fordſhire</hi> Forces, under the Command of Co<g ref="char:EOLhyphen"/>lonell <hi>Bower:</hi> All the Foot, being by order from the Committee, put under the Com<g ref="char:EOLhyphen"/>mand
+<pb n="4" facs="tcp:159457:3"/>
+               <!-- PDF PAGE 3 -->of Lieutenant Colonell <hi>Rinking,</hi> an able Souldier; who for his diſereet mana<g ref="char:EOLhyphen"/>ging this buſineſſe, deſerves much honour; our Horſe were commanded by Colonoll <hi>Mitton:</hi> Things being thus ordered, we march<g ref="char:EOLhyphen"/>ed towards <hi>Shrewsbury,</hi> which is a very ſtrong Town, well Walled, and compaſſed about with a navigable River, in the form of an Horſe-ſhooe; the neck of Land at the open<g ref="char:EOLhyphen"/>ing of the Horſe-ſhooe, being not a Bow ſhot over, in which ſtands (on the Eaſt-ſide on the top of an high Hill) a ſtrong <hi>Caſtle,</hi> the River running directly along, cloſe under the ſide of the Hill: From the North-Weſt-ſide of the Hill, there runs a ſtrong Wall, and a great Ditch to the River, on that ſide: Not<g ref="char:EOLhyphen"/>withſtanding the ſtrength of the place, we were not diſcouraged, but marched on, and came to <hi>Shrewsbury</hi> about three of the clock on Saturday morning: And now how to get over the Work, was both dangerous and diffi<g ref="char:EOLhyphen"/>cult, being ſo ſtrongly Paliſado'd, well for<g ref="char:EOLhyphen"/>tified; we therefore in a little Boat, that was provided for the purpoſe, conveyed eight <hi>Carpenters</hi> up the River, and landed them
+<pb n="5" facs="tcp:159457:3"/>
+               <!-- PDF PAGE 3 -->within the Enemies Breſt-work, under the <hi>Caſtle-Hill,</hi> on the Eaſt-ſide were the Sen<g ref="char:EOLhyphen"/>tinels, after ſome pauſe, gave fire upon them, but they ſoon ſawed down ſo many of the Pallaſadoes, as gave our men free paſſage. The firſt that ſtormed, were fourty Troopers diſmounted, with their Piſtols, and about as many Firelocks, which were led on by one Maſter <hi>Huſon</hi> a Miniſter, Captain <hi>Willers,</hi> and Lieutenant <hi>Benbow;</hi> after theſe followed ſome other Muskettiers along Severn ſide, under the <hi>Castle-Hill,</hi> and neer Sir. <hi>William Owens</hi> houſe, entered the Town; after theſe, marched 350. Foot more, under the command of Lieutenant Colonell <hi>Rinking:</hi> Theſe ha<g ref="char:EOLhyphen"/>ving gained the ſtreets, part marched to the Market-place, who after ſome exchange of ſhot, gained the main Court of Guard there, the reſt marched to the <hi>Caſtle-foreward-gate,</hi> which within one quarter of an hour was gained, the Gates opened, the Draw-Bridge let down, at which, our Horſe under the Command of Colonell <hi>Mitton,</hi> and Colonell <hi>Bowyer,</hi> with the Gentlemen of the Commit<g ref="char:EOLhyphen"/>tee entered. It was now about break of day
+<pb n="6" facs="tcp:159457:4"/>
+               <!-- PDF PAGE 4 -->the ſcriks in the Town was ſuch ſtrange kinde of Cock-crowing, as (I beleeve) you never heard the like. Being thus entered, the <hi>Caſtle</hi> and a ſtrong outwork at <hi>Frankvill</hi> held out, but by twelve of the clock, the Caſtle was de<g ref="char:EOLhyphen"/>livered upon theſe conditions, <hi>That the Engliſh ſhould march to</hi> Ludlow, <hi>but the Iriſh to be delivered up,</hi> which we ſhall hang with Authority: The ſtrong Work at <hi>Frankvill</hi> was ſurrendered up upon bare quarter. And thus it pleaſed God of his great goodneſſe to deliver ſo ſtrong an hold into our hands, with the loſſe onely of two Common Souldiers, we cannot be ſufficiently thankfull, for it is a place of great concernment; And now many honeſt people are delivered out of an Egypti<g ref="char:EOLhyphen"/>an ſlavery.</p>
+            <p>For this brief accompt of our laſt Action, I deſire you to accept of, as an earneſt of his engagements, which is</p>
+            <closer>
+               <dateline>Salop, <date>Feb. 22. 1644.</date>
+               </dateline>
+               <signed>Your friend to ſerve you.</signed>
+            </closer>
+            <postscript>
+               <pb n="7" facs="tcp:159457:4"/>
+               <!-- PDF PAGE 4 -->
+               <p>I Have ſent you here encloſed, a Liſt of ſuch priſoners as were found at the writing here<g ref="char:EOLhyphen"/>of: Its good ſport to ſee how we Ferret theſe Foxes out of their Holes every day.</p>
+               <list>
+                  <item>
+                     <hi>SIr</hi> Michael Ermley, <hi>Knight, and his Bro<g ref="char:EOLhyphen"/>ther.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Richard Lee, <hi>Sir</hi> Thomas Harris, <hi>Sir</hi> Henry Frederick Thin, <hi>Knights and Baronets.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> William Owen, <hi>Sir</hi> John Wilde, <hi>Senior, Sir</hi> John Wilde, <hi>Junior, Sir</hi> Thomas Lyſtor, <hi>Knights.</hi>
+                  </item>
+                  <item>Francis Thorns, Herbert Vaughan; Thomas Owen, Edward Keinaſton, Robert Ireland, Rich-Trevis, Thomas Morris, Arthur Sanford, Robert Sanford, Pellum Corbett, Thomas Jones, <hi>Eſquires.</hi>
+                  </item>
+                  <item>
+                     <hi>Lieutenant Colonell</hi> Edward Owen.</item>
+                  <item>
+                     <hi>Major</hi> Francis Ranger.</item>
+                  <item>
+                     <hi>Doctor</hi> Lewyn, <hi>Doctor</hi> Arnwey.</item>
+                  <item>Raynsford, William Lucas, John Creſſey, Thomas Collins, William Long, Pontsbury Owen, Henry Harriſon, <hi>Captains.</hi>
+                  </item>
+                  <item>John Pay <hi>Feodary,</hi> Caſſey Benthall, Edward Talbat, Richard Lee, Edward Standley, Francis
+<pb n="6" facs="tcp:159457:5"/>
+                     <!-- PDF PAGE 5 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="7" facs="tcp:159457:5"/>
+                     <!-- PDF PAGE 5 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:159457:6"/>
+                     <!-- PDF PAGE 6 -->Manwaring, John Bradſhaw, Edward Littleton, Peter Dorrington, Thomas Barker, John Wita<g ref="char:EOLhyphen"/>cares, Joſeph Tayler, Francis Sanford, Richard Gibbeons, George Manwaring, Charles Smith, <hi>Gentlemen.</hi>
+                  </item>
+                  <item>Edward Palmer, Matthew Whitwick, <hi>En<g ref="char:EOLhyphen"/>ſignes.</hi>
+                  </item>
+                  <item>Vincent Tayler, Thomas Dew, Humphrey Davis, Richard Broyn, <hi>Serjeants.</hi>
+                  </item>
+                  <item>Nicholas Proud, <hi>Clerk.</hi>
+                  </item>
+                  <item>
+                     <hi>Maſter</hi> James Lacon, <hi>Maſter</hi> Lendall, Moſes Hotchkis, George Bucknall, <hi>Corporals.</hi>
+                  </item>
+                  <item>Patrick Lawpaid, <hi>Iriſh, and 49. other priſoners.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The reaſon why we found no more Com<g ref="char:EOLhyphen"/>manders was, becauſe Prince</hi> Maurice <hi>had drawn them out for his Deſign at</hi> Cheſter.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
